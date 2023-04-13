@@ -8,7 +8,7 @@
   {%- assign post_info = include.content -%}
 {%- else -%}
   {%- assign post_info = include.content | split: site.data.conf.posts.excerpt_end_separator -%}
-  {%- assign post_info = post_info[0] | split: " " | join: " " -%}
+  {%- assign post_info = post_info[0][0] | split: " " | join: " " -%}
 {%- endif -%}
 
 {%- assign word_count = include.limit_words | default: 25 -%}

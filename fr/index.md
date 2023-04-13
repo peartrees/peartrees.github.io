@@ -37,9 +37,13 @@ img: ":home-heading.jpg"
 #published: false
 ---
 
-{%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
+Ceci est mon blog.\\
+Depuis avril 2023, la version française est en construction.
+
+{%- comment -%}
 {%- include util/auto-content-generator.liquid -%}
 {{ website_info_text_first }}
 
 {{ website_info_text_second }}
+{%- endcomment -%}

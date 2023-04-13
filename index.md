@@ -37,9 +37,12 @@ img: ":home-heading.jpg"
 #published: false
 ---
 
-{%- comment -%} Please delete below and place your page content here {%- endcomment -%}
+This is my blog.\\
+As of April 2023, English Version is under construction.
 
+{%- comment -%}
 {%- include util/auto-content-generator.liquid -%}
 {{ website_info_text_first }}
 
 {{ website_info_text_second }}
+{%- endcomment -%}

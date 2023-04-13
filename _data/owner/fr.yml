@@ -2,13 +2,13 @@
 # Owner's Personal Information
 ###########################################################
 # This is your brand name
-brand: "Ta marque"
+brand: "Le blog de peartrees"
 
 # text below the brand name
-brand_sub_text: "$site_sample"
+# brand_sub_text: "$site_sample"
 
 # used for seo meta post author (if it's not defined in post)
-name: "Votre nom"
+name: "peartrees"
 
 # home page top header texts
 home:
@@ -19,7 +19,7 @@ home:
 
 # about page sub title
 about:
-  sub_title: "$site_sample"
+  sub_title: ""
 
 # if you don't want to add copyright year, comment or leave it blank.
 # the year during which the claimed copyright for the work was first asserted.

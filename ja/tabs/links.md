@@ -42,27 +42,56 @@ lng_pair: id_links
 page_data:
   main:
     header: "リンク"
-    info: "リンクページの説明はこちら。"
+    info: "参考になるページへのリンク集です．"
 
   # To change order of the Categories, simply change order. (you don't need to change list order.)
   category:
     - title: "JekyII / Liquid"
       type: id_jekyiiliquid
       color: "gray"
-    - title: "Webデザイン"
-      type: id_webdesign
-      color: "#F4A273"
-    - title: "プログラミング"
-      type: id_programming
+    - title: "conpetition"
+      type: id_competition
       color: "#62b462"
+    - title: "programming"
+      type: id_programming
+      color: "blue"
+    - title: "others"
+      type: id_others
+      color: "black"
 
   list:
     -
+    # competition
+    - type: id_competition
+      title: "Kaggle"
+      url: "https://www.kaggle.com/"
+      info: "Kaggleでは，世界で最大規模のデータ分析コンペティションが開催されています．"
+    - type: id_competition
+      title: "Nishika"
+      url: "https://www.nishika.com/"
+      info: "Nishikaは，国内最大級のデータサイエンスコミュニティです．"
+    - type: id_competition
+      title: "Signate"
+      url: "https://signate.jp/"
+      info: "Signateは，日本国内のAI開発プラットフォームです．"
+
     # programming
     - type: id_programming
       title: "Stack OverFlow"
       url: "https://stackoverflow.com/"
-      info: "Stack Overflowは、プロや熱狂的なプログラマー向けの質疑応答Webサイトです。"
+      info: "Stack Overflowは、プロや熱狂的なプログラマー向けの質疑応答Webサイトです．"
+    - type: id_programming
+      title: "Qiita"
+      url: "https://qiita.com/peartrees"
+      info: "Qiitaは，日本人向きの質疑応答サイトです．リンクは私の記事一覧に飛びます．"
+    - type: id_programming
+      title: "NLP100本ノック"
+      url: "https://nlp100.github.io/ja/"
+      info: "NLP100本ノックでは，NLPの基礎技術をノック形式で学べます．"
+    - type: id_programming
+      title: "IR100本ノック"
+      url: "https://github.com/ir100/ir100"
+      info: "IR100本ノックでは，情報検索の基礎技術をノック形式で学べます．"
 
     # jekyiiliquid
     - type: id_jekyiiliquid
@@ -91,4 +120,13 @@ page_data:
       title: "W3Schools"
       url: "https://www.w3schools.com/"
       info: "W3Schoolsは、Webのすべての主要言語で、無料のオンラインチュートリアル、リファレンス、および演習を提供しています。 HTML、CSS、JavaScript、Python、SQL、Javaなどの人気のあるテーマをカバーしています。"
+    # competition
+    - type: id_others
+      title: "寿司打"
+      url: "https://sushida.net/"
+      info: "寿司打では，和文のタイピング技術を向上させることができます．"
+    - type: id_others
+      title: "keyhero"
+      url: "https://www.keyhero.com/free-typing-test/"
+      info: "Keyheroでは，英文のタイピング技術を向上させることができます．"
 ---

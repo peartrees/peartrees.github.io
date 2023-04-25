@@ -1,21 +1,26 @@
 ---
-layout: post-list
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: id_post_list
+lng_pair: content_1
+title: My Portfolio
 
-# publish date (used for seo)
-# if not specified, site.time will be used.
-#date: 2022-03-03 12:32:00 +0000
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: "peartrees"
+# multiple category is not supported
+category: portfolio
+# multiple tag entries are possible
+tags: [portfolio]
+# thumbnail image for post
+img: ":post_pic3.jpg"
+# disable comments on this page
+#comments_disable: true
 
-# for override items in _data/lang/[language].yml
-#title: My title
-#button_name: "My button"
-# for override side_and_top_nav_buttons in _data/conf/main.yml
-#icon: "fa fa-bath"
+# publish date
+date: 2023-04-12 20:00:00 +0900
 
 # seo
 # if not specified, date will be used.
-#meta_modify_date: 2022-03-03 12:32:00 +0000
+#meta_modify_date: 2023-04-12 20:00:00 +0900
 # check the meta_common_description in _data/owner/[language].yml
 #meta_description: ""
 
@@ -27,9 +32,16 @@ lng_pair: id_post_list
 # image lazy loader can be enabled or disabled for all posts using the "image_lazy_loader_posts: true" setting in _data/conf/main.yml.
 #image_lazy_loader_on: true
 # exclude from on site search
-on_site_search_exclude: true
+#on_site_search_exclude: true
 # exclude from search engines
 #search_engine_exclude: true
 # to disable this page, simply set published: false or delete this file
 #published: false
 ---
+
+{%- comment -%} Please delete below and place your page content here {%- endcomment -%}
+
+Sorry, this post is under construction.
+<br />
+<br />
+<br />

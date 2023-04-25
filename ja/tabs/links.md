@@ -49,7 +49,7 @@ page_data:
     - title: "JekyII / Liquid"
       type: id_jekyiiliquid
       color: "gray"
-    - title: "conpetition"
+    - title: "competition"
       type: id_competition
       color: "#62b462"
     - title: "programming"

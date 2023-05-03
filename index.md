@@ -38,7 +38,7 @@ img: ":home-heading.jpg"
 ---
 
 This is my blog.\\
-As of April 2023, English Version is under construction.
+As of May 2023, English Version is under construction.
 
 {%- comment -%}
 {%- include util/auto-content-generator.liquid -%}

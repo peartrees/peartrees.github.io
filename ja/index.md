@@ -38,8 +38,7 @@ img: ":home-heading.jpg"
 ---
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
-peartreesのブログです．\\
-2023年4月現在，絶賛工事中です．
+2023年5月現在，絶賛工事中です．
 
 {%- comment -%}
 {%- include util/auto-content-generator.liquid -%}

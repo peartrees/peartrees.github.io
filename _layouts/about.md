@@ -6,6 +6,7 @@
 layout: default
 # About page
 ---
+
 {%- include multi_lng/get-lng-by-url.liquid -%}
 {%- assign lng = get_lng -%}
 <div class="multipurpose-container about-container">

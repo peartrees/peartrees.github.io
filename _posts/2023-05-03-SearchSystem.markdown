@@ -1,23 +1,26 @@
 ---
-layout: home
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: id_home
+lng_pair: content_3
+title: Making Search System using Vue.js + Flask + MySQL
 
-# image for page specific usage
-img: ":home-heading.jpg"
-# publish date (used for seo)
-# if not specified, site.time will be used.
-#date: 2022-03-03 12:32:00 +0000
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: "peartrees"
+# multiple category is not supported
+category: programming
+# multiple tag entries are possible
+tags: [Web, programming,database,SQL,MySQL]
+# thumbnail image for post
+img: ":post_pic3.jpg"
+# disable comments on this page
+#comments_disable: true
 
-# for override items in _data/lang/[language].yml
-#title: My title
-#button_name: "My button"
-# for override side_and_top_nav_buttons in _data/conf/main.yml
-#icon: "fa fa-bath"
+# publish date
+date: 2023-05-03 17:45:00 +0900
 
 # seo
 # if not specified, date will be used.
-#meta_modify_date: 2022-03-03 12:32:00 +0000
+#meta_modify_date: date: 2023-04-13 17:45:00 +0900
 # check the meta_common_description in _data/owner/[language].yml
 #meta_description: ""
 
@@ -33,17 +36,9 @@ img: ":home-heading.jpg"
 # exclude from search engines
 #search_engine_exclude: true
 # to disable this page, simply set published: false or delete this file
-# don't forget that this is root index.html. If you disable this, there will be no index.html page to open
 #published: false
 ---
-{%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
-peartreesのブログです．\\
-2023年4月現在，絶賛工事中です．
+Sorry, This post is under construction.
+Japanese Version is Here（lang ja → posts）.
 
-{%- comment -%}
-{%- include util/auto-content-generator.liquid -%}
-{{ website_info_text_first }}
-
-{{ website_info_text_second }}
-{%- endcomment -%}

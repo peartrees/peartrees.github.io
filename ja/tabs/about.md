@@ -35,14 +35,57 @@ img: ":about.jpg"
 # to disable this page, simply set published: false or delete this file
 #published: false
 ---
+こんにちは！
+私が何者かをまとめたポートフォリオです．
 
-詳細はアーカイブ→ポートフォリオへ
+<br />
+<br />
+<br />
 
-{%- comment -%} Please delete below and place your page content here {%- endcomment -%}
+# 所属
+---
+- Apr.2023 - 現在：筑波大学[上保研究室](https://joholab.github.io/ja/){:target="_blank"}
+- Apr.2022 - 現在：日本データベース学会 学生会員
+<br />
+<br />
 
-{%- comment -%}
-{%- include util/auto-content-generator.liquid -%}
-{{ website_info_text_first }}
+# 研究
+---
+###### 国内会議・ワークショップ
+- 今坂優太, 山本岳洋, 大島裕明, 加藤誠, 藤田澄男. 健康情報検索におけるクエリに含まれる暗黙的な仮定の検出. [第15回データ工学と情報マネジメントに関するフォーラム(DEIM 2023)](https://event.dbsj.org/deim2023/){:target="_blank"}.
+    - 受賞（学生プレゼンテーション賞）
+- 今坂優太. 健康情報検索におけるクエリに含まれる暗黙的な仮定の検出. 東海関西データベースワークショップ（DBWS 2022）.
+<br />
+<br />
 
-{{ website_info_text_second }}
-{%- endcomment -%}
+# 職歴
+---
+###### インターンシップ
+- Sep.2021 - Sep.2021：株式会社D2C
+    - ビッグデータ分析のインターンに参加
+- Sep.2021 - Feb.2022：株式会社NYSOL
+    - データ分析業務に従事
+
+###### アルバイト
+- Oct.2019 - Feb.2023：塾講師
+- Oct.2020 - Jun.2021：薬局店員
+
+###### 大学
+- Oct.2022 - Jan.2023：兵庫県立大学 プログラミング3 TA
+<br />
+<br />
+
+# 学歴
+---
+- Apr.2023 - Mar.2025：筑波大学 人間総合科学学術院 人間総合科学研究群 情報学学位プログラム
+- Apr.2019 - Mar.2023：兵庫県立大学 社会情報科学部 社会情報科学科
+    - 学士（社会情報科学）
+- Apr.2016 - Mar.2019：静岡県立浜松南高等学校 理数科
+<br />
+<br />
+
+# 資格など
+---
+- Apr.2022：TOEICL&R 805点
+- Oct.2021：応用情報技術者資格取得
+- Mar.2021：統計検定2級取得

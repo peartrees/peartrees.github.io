@@ -36,14 +36,58 @@ img: ":about.jpg"
 #published: false
 ---
 
-{%- comment -%} Please delete below and place your page content here {%- endcomment -%}
+Hi!
+My portfolio is below．
 
-Sorry.\\
-English version is under construction.
+<br />
+<br />
+<br />
 
-{%- comment -%}
-{%- include util/auto-content-generator.liquid -%}
-{{ website_info_text_first }}
+# Affiliation
+---
+- Apr.2023 - Cuurent：University of Tsukuba - [Joho Lab](https://joholab.github.io/ja/){:target="_blank"}
+- Apr.2022 - Current：The Database Society of Japan（DBSJ）Student Member
+<br />
+<br />
 
-{{ website_info_text_second }}
-{%- endcomment -%}
+# Research
+---
+###### Domestic Conference・Workshop
+- 今坂優太, 山本岳洋, 大島裕明, 加藤誠, 藤田澄男. 健康情報検索におけるクエリに含まれる暗黙的な仮定の検出. [第15回データ工学と情報マネジメントに関するフォーラム(DEIM 2023)](https://event.dbsj.org/deim2023/){:target="_blank"}.
+    - 受賞（学生プレゼンテーション賞）
+- 今坂優太. 健康情報検索におけるクエリに含まれる暗黙的な仮定の検出. 東海関西データベースワークショップ（DBWS 2022）.
+<br />
+<br />
+
+# Experience/Job
+---
+###### Internship
+- Sep.2021 - Sep.2021：D2C Inc．
+    - Joined the Big Data Analysis
+- Sep.2021 - Feb.2022：NYSOL Inc.
+    - Engaged in Data Analysis
+
+###### University
+- Oct.2022 - Jan.2023：TA（Programming 3）, University of Hyogo
+
+
+###### Part-time Job
+- Oct.2019 - Feb.2023：Cram School Teacher
+- Oct.2020 - Jun.2021：Store Clerk at Pharmacy
+<br />
+<br />
+
+# Education
+---
+- Apr.2023 - Mar.2025：Master's and Doctoral Programs in Infomatics, Graduate School of Comprehensive Human Sciences, University of Tsukuba.
+- Apr.2019 - Mar.2023：School of Social Information Science, University of Hyogo.
+    - Bachelor（Social Information Science）
+<br />
+<br />
+
+# Others
+---
+###### Qualifications・Social Skills
+- Apr.2022：TOEICL&R 805
+- Oct.2021：Applied Information Technology Engineer Examination（IPA）
+- Mar.2021：Grade 2, Japan Statistical Society Certificate

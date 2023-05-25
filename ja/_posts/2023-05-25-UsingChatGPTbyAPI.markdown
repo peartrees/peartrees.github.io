@@ -43,17 +43,17 @@ date: 2023-05-25 17:45:00 +0900
 ChatGPTに出来ないことなんてないんじゃないか，そう思ってしまうレベルです．  
 
 
-ところで，ChatGPTをAPI経由で触るのは実に簡単です．    
+ところで，Pythonを実行する環境さえあれば，ChatGPTをAPI経由で叩くのは実に簡単です．    
 今回はn番煎じではありますが，ChatGPT APIをPythonで実行してみたという記事です．
 
 # 1. API Keyを取得する．
 [OpenAI API（公式ページ）](https://openai.com/blog/openai-api)から，頑張って取得しましょう．  
-英語で書かれているのでギョッとしますが，Google翻訳でなんとか乗り切ります．
-
+英語で書かれているのでギョッとしますが，Google翻訳でなんとか乗り切ります．  
+2023年5月現在，無料では発行できないとかなんとか...  
 
 # 2. APIを叩くためのコードを書く．
 実はChatGPTがあれば，自分でコードを書く必要さえありません．  
-ChatGPTに聞いても良いのですが，ChatGPTが正確なコードを出すのは当たり前感あるので，今回は[Bard（Google）の生成AI](https://bard.google.com/)に聞いてみましょう．
+ChatGPTに聞いても良いのですが，ChatGPTが正確なコードを出すのは当たり前感あるので，今回は[Bard（Googleの生成AI)](https://bard.google.com/)に聞いてみましょう．
 
 ![Asking_Bard](:/2023_05_25/Asking_Bard.png)
 
@@ -128,6 +128,7 @@ while True:
 ```
 
 2023年5月現在では，上手く動作するコードになりました．
+
 
 
 # まとめ！

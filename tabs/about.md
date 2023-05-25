@@ -40,8 +40,6 @@ Hi!
 My portfolio is below．
 
 <br />
-<br />
-<br />
 
 # Affiliation
 ---

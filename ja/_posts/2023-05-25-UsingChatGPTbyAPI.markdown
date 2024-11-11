@@ -11,7 +11,7 @@ category: ChatGPT
 # multiple tag entries are possible
 tags: [programming,ChatGPT]
 # thumbnail image for post
-img: ":post_pic3.jpg"
+img: ":AI_image.jpeg"
 # disable comments on this page
 #comments_disable: true
 

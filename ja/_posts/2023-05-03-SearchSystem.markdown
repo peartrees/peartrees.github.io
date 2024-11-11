@@ -11,7 +11,7 @@ category: programming
 # multiple tag entries are possible
 tags: [Web, programming,database,SQL,MySQL]
 # thumbnail image for post
-img: ":post_pic3.jpg"
+img: ":website_kensaku_top.png"
 # disable comments on this page
 #comments_disable: true
 

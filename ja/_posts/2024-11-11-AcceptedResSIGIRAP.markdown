@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: content_5
-title: 研究論文（Effect of LLM's Personality Traits on Query Generation）が国際会議SIGIR-AP 2024に採録されました。
+title: 研究論文が国際会議SIGIR-AP 2024に採録されました。
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
@@ -36,7 +36,7 @@ date: 2024-11-12 17:45:00 +0900
 # exclude from search engines
 #search_engine_exclude: true
 # to disable this page, simply set published: false or delete this file
-#published: false
+#published: true
 ---
 研究論文（Effect of LLM's Personality Traits on Query Generation）が国際会議SIGIR-AP 2024に採録されました。2024年12月に東京・新宿にて口頭発表する予定です。
 

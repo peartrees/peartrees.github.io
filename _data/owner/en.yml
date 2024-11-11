@@ -2,13 +2,13 @@
 # Owner's Personal Information
 ###########################################################
 # This is your brand name
-brand: "Blog of peartrees"
+brand: "Yuta Imasaka's Page"
 
 # text below the brand name
 # brand_sub_text: "This is a blog of peartrees."
 
 # used for seo meta post author (if it's not defined in post)
-name: "peartrees"
+name: "Yuta Imasaka"
 
 # home page top header texts
 home:

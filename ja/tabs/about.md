@@ -49,6 +49,10 @@ img: ":about.jpg"
 
 # 研究
 ---
+###### 国際会議・ワークショップ
+- Yuta Imasaka and Hideo Joho. 2024. Effect of LLM’s Personality Traits on Query Generation. In Proceedings of the 2024 Annual International ACM SIGIR Conference on Research and Development in Information Retrieval in the Asia Pacific Region (SIGIR-AP ’24), December 9–12, 2024, Tokyo, Japan. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3673791.3698433.
+- Yuta Imasaka. Effect of LLM's Personality Traits on Query Generation. International Workshop on Information Management and Media Science (IWIMMS 2024).
+
 ###### 国内会議・ワークショップ
 - 今坂優太, 山本岳洋, 大島裕明, 加藤誠, 藤田澄男. 健康情報検索におけるクエリに含まれる暗黙的な仮定の検出. [第15回データ工学と情報マネジメントに関するフォーラム(DEIM 2023)](https://event.dbsj.org/deim2023/){:target="_blank"}.
     - 受賞（学生プレゼンテーション賞）
@@ -69,7 +73,8 @@ img: ":about.jpg"
 - Oct.2020 - Jun.2021：薬局店員
 
 ###### 大学
-- Oct.2022 - Jan.2023：兵庫県立大学 プログラミング3 TA
+- Oct.2022 - Jan.2023：兵庫県立大学 プログラミング3 ティーチングアシスタント
+- Oct.2023 - Mar.2024：筑波大学 リサーチアシスタント（研究プロジェクト名：自然言語処理モデルにおけるドメイン特化の研究）
 <br />
 <br />
 

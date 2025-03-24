@@ -50,7 +50,11 @@ My portfolio is below．
 
 # Research
 ---
-###### Domestic Conference・Workshop
+###### International Conference/Workshop
+- Yuta Imasaka and Hideo Joho. 2024. Effect of LLM’s Personality Traits on Query Generation. In Proceedings of the 2024 Annual International ACM SIGIR Conference on Research and Development in Information Retrieval in the Asia Pacific Region (SIGIR-AP ’24), December 9–12, 2024, Tokyo, Japan. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3673791.3698433.
+- Yuta Imasaka. Effect of LLM's Personality Traits on Query Generation. International Workshop on Information Management and Media Science (IWIMMS 2024).
+
+###### Domestic Conference/Workshop
 - 今坂優太, 山本岳洋, 大島裕明, 加藤誠, 藤田澄男. 健康情報検索におけるクエリに含まれる暗黙的な仮定の検出. [第15回データ工学と情報マネジメントに関するフォーラム(DEIM 2023)](https://event.dbsj.org/deim2023/){:target="_blank"}.
     - 受賞（学生プレゼンテーション賞）
 - 今坂優太. 健康情報検索におけるクエリに含まれる暗黙的な仮定の検出. 東海関西データベースワークショップ（DBWS 2022）.
@@ -67,6 +71,7 @@ My portfolio is below．
 
 ###### University
 - Oct.2022 - Jan.2023：TA（Programming 3）, University of Hyogo
+- Oct.2023 - mar.2025：RA（Research on domain specialization in natural language processing models）, University of Tsukuba
 
 
 ###### Part-time Job
